@@ -1,4 +1,4 @@
-# 🌏 India Air Quality Monitoring & Insights Dashboard (2015–2020)
+# 🌏 Air-Pollution-Monitoring-Insights-Dashboard-India (2015–2020)
 
 ## 📌 Background & Overview
 Air pollution has been rising globally—and particularly in India—posing serious risks to public health and the environment.  

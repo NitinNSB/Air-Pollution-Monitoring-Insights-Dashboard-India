@@ -57,7 +57,7 @@ A star schema was used to structure the data model for efficient analysis and vi
 ---
 
 ## 📈 Dashboard Snapshot  
- ![Dashboard Preview](images/Dashboard.png)
+ ![Dashboard Preview](images/dashboard.png)
 
 ---
 
